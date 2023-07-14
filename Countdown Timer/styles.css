@@ -1,0 +1,38 @@
+#Timer {
+    width: 500px;
+    font-size: 48px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 15px;
+    background-color:rgb(52, 90, 171);
+}
+
+h3{
+    padding-top: 25px;
+    color: antiquewhite;
+}
+
+
+
+
+#timer {
+    font-size: 48px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+input {
+    font-size: 24px;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgba(16, 16, 100, 0.247);
+    border-radius: 10px;
+}
+
+button {
+    font-size: 30px;
+    margin: 10px;
+    background-color:  rgb(94, 25, 190);
+    border-radius: 7px;
+}
